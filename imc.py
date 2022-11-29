@@ -1,3 +1,4 @@
+##Calculadora de indice de masa corporal
 
 peso = input("Ingrese su peso en kg: ")
 estatura = input("Ingrese su estatura en metros: ")
